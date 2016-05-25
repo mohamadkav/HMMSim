@@ -5,7 +5,7 @@
 -dram_ranks 8
 -dram_queue_size 8
 -dram_blocks_per_row 4
--instr_limit 1000
+-instr_limit 10
 -dram_fractions 1
 -L2_size 2
 -migration_policy double_clock
